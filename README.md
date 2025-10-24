@@ -9,6 +9,8 @@
                                                             
 ```                                                          
 ---
+![loading]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZuNGg3dHc2OTJ0aWh4cmdwd2hyaDg0bGxqNzlwZGxqOGV1ODNhayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cnzP4cmBsiOrccg20V/giphy.gif))
+---
 
 ```yaml
 name: Dmitry Nazarov
