@@ -9,10 +9,6 @@
                                                             
 ```                                                          
 ---
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR3eGQ5MjI1andlaWVmODBxMzZjNHU3cThkcDY0dDZ0ZTZuNjdwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnzP4cmBsiOrccg20V/giphy.gif" alt="Loading Gif" align="center" />
-</p>
----
 
 ```yaml
 name: Dmitry Nazarov
