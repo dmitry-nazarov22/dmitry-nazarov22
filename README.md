@@ -9,7 +9,9 @@
                                                             
 ```                                                          
 ---
-![loading]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZuNGg3dHc2OTJ0aWh4cmdwd2hyaDg0bGxqNzlwZGxqOGV1ODNhayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cnzP4cmBsiOrccg20V/giphy.gif))
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR3eGQ5MjI1andlaWVmODBxMzZjNHU3cThkcDY0dDZ0ZTZuNjdwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnzP4cmBsiOrccg20V/giphy.gif" alt="Loading Gif" align="center" />
+</p>
 ---
 
 ```yaml
