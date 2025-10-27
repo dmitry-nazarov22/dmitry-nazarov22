@@ -28,6 +28,7 @@ hobbies: ["Gym and sports", "Music making", "Gaming"]
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -41,8 +42,14 @@ hobbies: ["Gym and sports", "Music making", "Gaming"]
 
 ### 🎯 Current Focus
 
-- Deepening **React** and front-end skills
-- Deepening **Javascript** and **Node.js** skills for backend
-- Learning **cybersecurity fundamentals**
-- Preparing for my **first IT internship or junior developer role**
+- Learning **React**
+- Deepening **Javascript**, **Node.js** and **Java** skills for backend
+- Preparing for my **first developer internship or junior developer role**
+
+### 🚧 Pet Projects
+ 
+- ⛅️ [Weather App (Vue.js)](https://github.com/dmitry-nazarov22/react-weather-app)
+- ☑️ [(CURRENT) Clean ToDo App (Vue.js)](https://github.com/dmitry-nazarov22/react-clean-todo-app)
+
+---
 
