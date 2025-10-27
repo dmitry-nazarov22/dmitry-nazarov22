@@ -16,9 +16,9 @@ located_in: Tampere, Finland
 current_status: Student, TAMK
 
 fields_of_interests:
-  ["Web Development", "Data Science", "UI/UX", "Machine Learning", "DevOps"]
+  ["Full Stack", "Web Development", "UI/UX", "DevOps"]
 
-currently_learning: ["React", "Node.js", "UI/UX Design"]
+currently_learning: ["React", "Node.js", "UI/UX Design", "Spring Boot"]
 hobbies: ["Gym and sports", "Music making", "Gaming"]
 ```
 
