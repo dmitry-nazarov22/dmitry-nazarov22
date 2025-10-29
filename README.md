@@ -15,20 +15,26 @@ name: Dmitry Nazarov
 located_in: Tampere, Finland
 current_status: Student, TAMK
 
-fields_of_interests:
-  ["Full Stack", "Web Development", "UI/UX", "DevOps"]
+interests: ["Backend Development", "Full Stack", "Web Applications"]
+currently_learning: ["Java", "Spring Boot", "Node.js", "React"]
 
-currently_learning: ["React", "Node.js", "UI/UX Design", "Spring Boot"]
-hobbies: ["Gym and sports", "Music making", "Gaming"]
+hobbies: ["Gym", "Music making", "Gaming"]
 ```
+### 👋 About Me
+I’m a student at TAMK focusing on **backend and full stack development**.  
+Right now I’m building small projects in **JavaScript + React**, and **Java** for backend.  
+My goal is to grow into a **junior backend or full stack developer**.
+
+---
 
 ### 💻 Tools I have Used and Learned:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -36,20 +42,25 @@ hobbies: ["Gym and sports", "Music making", "Gaming"]
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478cbf?style=flat-square&logo=godot-engine&logoColor=white)
-![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-000000?style=flat-square&logo=ableton&logoColor=white)
 
 ---
 
 ### 🎯 Current Focus
 
-- Learning **React**
-- Deepening **Javascript**, **Node.js** and **Java** skills for backend
-- Preparing for my **first developer internship or junior developer role**
+- Strengthening **Java backend** (Spring Boot, SQL)
+- Practicing **API design** and **authentication**
+- **Frontend** is the focus at uni right now
+- Preparing for **first internship / junior role**
 
-### 🚧 Pet Projects
+### ⌨️ Pet Projects I've Done
  
-- ⛅️ [Weather App (Vue.js)](https://github.com/dmitry-nazarov22/react-weather-app)
-- ☑️ [(CURRENT) Clean ToDo App (Vue.js)](https://github.com/dmitry-nazarov22/react-clean-todo-app)
+- ⛅️ [React Weather App](https://github.com/dmitry-nazarov22/react-weather-app)
+- ☑️ [Clean To-Do App](https://github.com/dmitry-nazarov22/react-clean-todo-app)
 
 ---
+
+### 📈 Next Goals
+- Deploy a full-stack project  
+- Learn Docker basics  
+- Add tests and CI/CD to my projects  
 
