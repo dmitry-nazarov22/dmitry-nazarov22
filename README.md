@@ -15,7 +15,7 @@ name: Dmitry Nazarov
 located_in: Tampere, Finland
 current_status: Student, TAMK
 
-interests: ["Backend Development", "Full Stack", "Web Applications"]
+interests: ["Backend Development", "Full Stack"]
 currently_learning: ["Java", "Spring Boot", "Node.js", "React"]
 
 hobbies: ["Gym", "Music making", "Gaming"]
@@ -27,10 +27,11 @@ My goal is to grow into a **junior backend or full stack developer**.
 
 ---
 
-### 💻 Tools I have Used and Learned:
+### Tools I have Used and Learned:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -45,22 +46,22 @@ My goal is to grow into a **junior backend or full stack developer**.
 
 ---
 
-### 🎯 Current Focus
+### Current Focus
 
 - Strengthening **Java backend** (Spring Boot, SQL)
 - Practicing **API design** and **authentication**
-- **Frontend** is the focus at uni right now
+- **Fullstack** is the focus at uni right now
 - Preparing for **first internship / junior role**
 
-### ⌨️ Pet Projects I've Done
+### Pet Projects I've Done
  
 - ⛅️ [React Weather App](https://github.com/dmitry-nazarov22/react-weather-app)
 - ☑️ [Clean To-Do App](https://github.com/dmitry-nazarov22/react-clean-todo-app)
+- 🚇 [Text Adventure - Python](https://github.com/dmitry-nazarov22/tunnel-text-adventure-py)
 
 ---
 
 ### 📈 Next Goals
-- Deploy a full-stack project  
-- Learn Docker basics  
-- Add tests and CI/CD to my projects  
+- make a blog backend api
+- deploy a full-stack project 
 
