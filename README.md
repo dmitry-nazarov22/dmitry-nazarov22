@@ -25,6 +25,8 @@ I’m a student at TAMK focusing on **backend and full stack development**.
 Right now I’m building small projects in **JavaScript + React**, and **Java** for backend.  
 My goal is to grow into a **junior backend or full stack developer**.
 
+🌐 [Check out my portfolio](https://dmitry-nazarov22.github.io/portfolio/)
+
 ---
 
 ### Tools I have Used and Learned:
